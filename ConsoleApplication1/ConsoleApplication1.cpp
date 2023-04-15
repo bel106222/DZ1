@@ -8,6 +8,11 @@ void homework1()
 
 }
 
+void homework2()
+{
+
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
