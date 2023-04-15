@@ -3,6 +3,11 @@
 
 #include <iostream>
 
+void homework1()
+{
+
+}
+
 int main()
 {
     std::cout << "Hello World!\n";
